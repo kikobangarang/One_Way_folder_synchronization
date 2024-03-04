@@ -10,7 +10,7 @@ This Folder Synchronization Tool is a Python script designed to automatically sy
 * Logging: Records all synchronization activities, including file and directory creation, modification, and deletion, with timestamps.
 
 # Requirements
-Python 3.x, libraries used are included, no need for installation
+Python 3.x, libraries used are included, no need for installation.
 
 # Usage
 The script is executed from the command line with optional arguments to specify the source and replica folder paths, the path to the log file, and the synchronization period.
